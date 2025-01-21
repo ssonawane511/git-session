@@ -1,0 +1,19 @@
+1. commit messages are not good enough 
+
+commit - 
+FIX : "Swiggy UI"
+UPDATE
+FEATURE
+
+2. new branch with meaning full title 
+feat/[work-title]
+fix/ 
+improvement/
+
+alway start with the master latest pull 
+
+maintaining the code and pushing it to the branch then pullrequst 
+frontend - main || UAT ( workflows )
+backend - main || UAT ( workflows )
+digital - main || UAT ( workflows )
+
