@@ -1,0 +1,7 @@
+update a commit message 
+
+update a file changes 
+
+git commit --amend 
+press i to insert update the commit message 
+press esc then : then wq to save the changes 

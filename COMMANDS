@@ -1,0 +1,8 @@
+git add . 
+git commit -m "PROTO: added protocols"
+git log --oneline
+
+
+add a new branch - git checkout -b branch_name
+
+edit the commit - git commit --amend
