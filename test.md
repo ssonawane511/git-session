@@ -1,3 +1,4 @@
+<!-- tags: led-light-example, esp32, esp-rainmaker, standard -->
 # LED Light Example
 
 ## Build and Flash firmware
